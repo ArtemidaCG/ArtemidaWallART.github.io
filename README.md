@@ -11,5 +11,3 @@ Help with the sketch and selection of references.
   <div id="header" align="center">
 Important criteria for evaluating the drawing -referens/style/level of detail
  </div> 
- 
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="file:///D:/NATALIE/Tukhvatshyna/3D/Tukhvatshyna_Sketch/Wall/0235d4a8-6d39-4500-adf1-da4f891697cd.jpg">
