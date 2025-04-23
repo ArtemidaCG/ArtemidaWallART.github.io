@@ -11,19 +11,3 @@ Help with the sketch and selection of references.
   <div id="header" align="center">
 Important criteria for evaluating the drawing -referens/style/level of detail
  </div> 
-
-.theme_toggler {
-    background: var(--primary-color);
-    z-index: 999999999;
-    left: 10px;
-    background: var(--primary-color);
-    display: flex;
-    height: 50px;
-    align-items: center;
-    padding-left: 10px;
-}
-
-.theme_toggler svg {
-    width: 2em;
-    height: 2em;
-}
