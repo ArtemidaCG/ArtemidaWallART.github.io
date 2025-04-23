@@ -30,3 +30,6 @@
 </div>  
 </selection>
 </div>
+<a href="https://t.me/ARTEMIDA_CG">
+     <img src="https://img.shields.io/badge/Telegram-1769ff?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
