@@ -34,24 +34,3 @@
 <a href="https://t.me/ARTEMIDA_CG">
      <img src="https://img.shields.io/badge/Telegram-a4292e?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
-
-<div style="position: absolute;top:0;left:0;right:0;margin:auto;width:1140px;">
-  <div class="block block-button is-button" id="block-new3">
-    <a href="#block-new29" target="_self">ДОМА</a>
-  </div>
-  <div class="block block-button is-button" id="block-new4">
-   <a href="#block-new36" target="_self">РАСПОЛОЖЕНИЕ</a>
-  </div>
-
-  <div class="block block-button is-button" id="block-new5">
-    <a href="#block-new49" target="_self">КОММУНИКАЦИИ</a>
-  </div>
-
-  <div class="block block-button is-button" id="block-new6">
-    <a href="#block-new52" target="_self">О ПОСЕЛКЕ</a>
-  </div>
-
-  <div class="block block-button is-button" id="block-new7">
-    <a href="#block-new53" target="_self">ФОТО</a>
-  </div>
-</div>
