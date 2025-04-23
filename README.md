@@ -12,7 +12,29 @@
      Important criteria for evaluating the drawing -referens/style/level of detail
 </div> 
      <h3 align="center">PORTFOLIO</h3>
-<div class="gallery"> <margin="5px" border="1px" solid #ccc float="left" width="180px">
+     <style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+<div class="gallery">
      <img alt="0235d4a8-6d39-4500-adf1-da4f891697cd.jpg" src="https://github.com/ArtemidaCG/ArtemidaWallART.github.io/blob/main/0235d4a8-6d39-4500-adf1-da4f891697cd.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" alt="WallART" width="350" height="443">
   </a>
 </div>  
