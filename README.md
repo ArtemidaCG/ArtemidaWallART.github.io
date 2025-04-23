@@ -26,7 +26,7 @@
      <img alt="Gorillaz.png" src="https://github.com/ArtemidaCG/ArtemidaWallART.github.io/blob/main/Gorillaz.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
 </div>
      <div class="gallery-item">
-     <img alt="307995692_2221125324755780_8786549224001585323_n.jpg" src="https://github.com/ArtemidaCG/ArtemidaWallART.github.io/blob/main/307995692_2221125324755780_8786549224001585323_n.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" alt="WallART" width="350" height="500"
+     <img alt="307995692_2221125324755780_8786549224001585323_n.jpg" src="https://github.com/ArtemidaCG/ArtemidaWallART.github.io/blob/main/307995692_2221125324755780_8786549224001585323_n.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" alt="WallART" width="350" height="4700"
 </div>  
 </selection>
 </div>
