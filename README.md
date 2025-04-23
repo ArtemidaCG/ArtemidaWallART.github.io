@@ -33,5 +33,5 @@
 <h3 align="center">Contact</h3>
 <div id="header" align="center">
 <a href="https://t.me/ARTEMIDA_CG">
-     <img src="https://img.shields.io/badge/Telegram-1769ff?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+     <img src="https://img.shields.io/badge/Telegram-a4292e?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
