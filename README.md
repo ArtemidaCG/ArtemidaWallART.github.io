@@ -24,6 +24,9 @@
 </div> 
 <div class="gallery-item">
      <img alt="photo_2024-12-19_17-50-46.jpg" src="https://github.com/ArtemidaCG/ArtemidaWallART.github.io/blob/main/photo_2024-12-19_17-50-46.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
-</div> 
+</div>
+     <div class="gallery-item">
+     <img alt="Gorillaz.png" src="https://github.com/ArtemidaCG/ArtemidaWallART.github.io/blob/main/Gorillaz.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
+</div>  
 </selection>
 </div>
