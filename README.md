@@ -11,6 +11,9 @@
 <div id="header" align="center">
      Important criteria for evaluating the drawing -referens/style/level of detail
 </div> 
+<a href="https://t.me/ARTEMIDA_CG">
+     <img src="https://img.shields.io/badge/Telegram-1769ff?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 <div classes="content-container" align="grid">
 <section class="gallery">
 <div class="gallery-item">
@@ -30,6 +33,3 @@
 </div>  
 </selection>
 </div>
-<a href="https://t.me/ARTEMIDA_CG">
-     <img src="https://img.shields.io/badge/Telegram-1769ff?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
