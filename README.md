@@ -1,5 +1,5 @@
 # ArtemidaWallART
-## Unique artistic painting of walls for various creative spaces
+### Unique artistic painting of walls for various creative spaces
 
 Minimalism and Cartoon style.
 Help with the sketch and selection of references.
