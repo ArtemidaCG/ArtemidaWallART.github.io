@@ -13,7 +13,7 @@
 </div> 
       <h3 align="center">PORTFOLIO</h3>
 <div class="gallery">
-     <div class="gallery_column"><figure style="flex:1">
+     <div class="gallery_column">
     <img alt="0235d4a8-6d39-4500-adf1-da4f891697cd.jpg" src="https://github.com/ArtemidaCG/ArtemidaWallART.github.io/blob/main/0235d4a8-6d39-4500-adf1-da4f891697cd.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" alt="WallART" width="350" height="443">
   </a>
 </div>  
@@ -29,7 +29,6 @@
      <div class="gallery">
      <img alt="307995692_2221125324755780_8786549224001585323_n.jpg" src="https://github.com/ArtemidaCG/ArtemidaWallART.github.io/blob/main/307995692_2221125324755780_8786549224001585323_n.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" alt="WallART" width="350" height="460"
 </div>
-</figure>
 </div>
 <h3 align="center">Contact</h3>
 <div id="header" align="center">
