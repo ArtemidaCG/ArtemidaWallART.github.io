@@ -11,6 +11,7 @@
 <div id="header" align="center">
      Important criteria for evaluating the drawing -referens/style/level of detail
 </div> 
+<div id="header" align="grid">
 <div classes="content-container">
 <section class="gallery">
 <div class="gallery-item">
@@ -29,4 +30,5 @@
      <img alt="Gorillaz.png" src="https://github.com/ArtemidaCG/ArtemidaWallART.github.io/blob/main/Gorillaz.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
 </div>  
 </selection>
+</div>
 </div>
