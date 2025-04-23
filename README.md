@@ -20,7 +20,7 @@
      <img alt="6395aacd-913c-42f4-a2c0-d83a92d2007b.png" src="https://github.com/ArtemidaCG/ArtemidaWallART.github.io/blob/main/6395aacd-913c-42f4-a2c0-d83a92d2007b.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" alt="WallART">
 </div> 
 <div class="gallery-item">
-     <img alt="photo_2024-12-19_17-50-46.jpg" src="https://github.com/ArtemidaCG/ArtemidaWallART.github.io/blob/main/photo_2024-12-19_17-50-46.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" alt="WallART" width="288" height="500">
+     <img alt="photo_2024-12-19_17-50-46.jpg" src="https://github.com/ArtemidaCG/ArtemidaWallART.github.io/blob/main/photo_2024-12-19_17-50-46.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" alt="WallART" width="288" height="600">
 </div>
      <div class="gallery-item">
      <img alt="Gorillaz.png" src="https://github.com/ArtemidaCG/ArtemidaWallART.github.io/blob/main/Gorillaz.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
