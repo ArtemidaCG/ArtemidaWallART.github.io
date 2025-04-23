@@ -15,15 +15,6 @@
 <a href="https://t.me/ARTEMIDA_CG">
      <img src="https://img.shields.io/badge/Telegram-1769ff?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
-
-<link rel="stylesheet" href="http://timegenerator.ru/lib/130717-jquery.fancybox.css"/>
-<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/themes/ui-lightness/jquery-ui.css" type="text/css" media="all" />
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
-<script src="http://cdn.jquerytools.org/1.2.7/full/jquery.tools.min.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
-<script src="http://media.lpgenerator.ru/uploads/images/130717-jquery.fancybox.pack.js"></script>
-<script>jq_181 = jQuery.noConflict(true);</script>
-     
 <div classes="content-container" align="grid">
 <section class="gallery">
 <div class="gallery-item">
