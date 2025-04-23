@@ -11,7 +11,7 @@
 <div id="header" align="center">
      Important criteria for evaluating the drawing -referens/style/level of detail
 </div> 
-<div classes="content-container" align="grid"> ==$0
+<div classes="content-container" align="grid">
 <section class="gallery">
 <div class="gallery-item">
      <img alt="0235d4a8-6d39-4500-adf1-da4f891697cd.jpg" src="https://github.com/ArtemidaCG/ArtemidaWallART.github.io/blob/main/0235d4a8-6d39-4500-adf1-da4f891697cd.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
