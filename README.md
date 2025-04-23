@@ -11,10 +11,9 @@ Help with the sketch and selection of references.
 <div id="header" align="center">
 Important criteria for evaluating the drawing -referens/style/level of detail
 </div> 
-<main>
 <div classes="content-container">
-<selection class="galerry">
-<section class="gallery">grid
+<section class="gallery">
+<div class="gallery-item">
 <img alt="0235d4a8-6d39-4500-adf1-da4f891697cd.jpg" src="https://github.com/ArtemidaCG/ArtemidaWallART.github.io/blob/main/0235d4a8-6d39-4500-adf1-da4f891697cd.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
 </div>  
 <div class="gallery-item">
@@ -28,5 +27,3 @@ Important criteria for evaluating the drawing -referens/style/level of detail
 </div> 
 </selection>
 </div>
-</main>
-          
