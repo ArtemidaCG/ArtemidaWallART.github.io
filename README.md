@@ -11,12 +11,7 @@
 <div id="header" align="center">
      Important criteria for evaluating the drawing -referens/style/level of detail
 </div> 
-<div id="header" align="center">
-<a href="https://t.me/ARTEMIDA_CG">
-     <img src="https://img.shields.io/badge/Telegram-1769ff?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-<div classes="content-container" align="grid">
-<section class="gallery">
+     <h3 align="center">Gallery</h3>
 <div class="gallery-item">
      <img alt="0235d4a8-6d39-4500-adf1-da4f891697cd.jpg" src="https://github.com/ArtemidaCG/ArtemidaWallART.github.io/blob/main/0235d4a8-6d39-4500-adf1-da4f891697cd.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm"></div>
 </div>  
@@ -34,3 +29,8 @@
 </div>  
 </selection>
 </div>
+<h3 align="center">Contact</h3>
+<div id="header" align="center">
+<a href="https://t.me/ARTEMIDA_CG">
+     <img src="https://img.shields.io/badge/Telegram-1769ff?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
