@@ -15,7 +15,7 @@
 <div class="stylesheet">
      <img alt="0235d4a8-6d39-4500-adf1-da4f891697cd.jpg" src="https://github.com/ArtemidaCG/ArtemidaWallART.github.io/blob/main/0235d4a8-6d39-4500-adf1-da4f891697cd.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm"></div>
 </div>  
-<div class="gallery-item">
+<div class="stylesheet">
      <img alt="6395aacd-913c-42f4-a2c0-d83a92d2007b.png" src="https://github.com/ArtemidaCG/ArtemidaWallART.github.io/blob/main/6395aacd-913c-42f4-a2c0-d83a92d2007b.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
 </div> 
 <div class="gallery-item">
