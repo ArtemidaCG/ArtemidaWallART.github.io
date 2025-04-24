@@ -12,7 +12,7 @@
      Important criteria for evaluating the drawing -referens/style/level of detail
 </div> 
     <h3 align="center">PORTFOLIO</h3>
-    <p float="left">
+    <p float="middle">
     <img alt="0235d4a8-6d39-4500-adf1-da4f891697cd.jpg" src="https://github.com/ArtemidaCG/ArtemidaWallART.github.io/blob/main/0235d4a8-6d39-4500-adf1-da4f891697cd.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" alt="WallART" width="350" height="443">
     <img alt="6395aacd-913c-42f4-a2c0-d83a92d2007b.png" src="https://github.com/ArtemidaCG/ArtemidaWallART.github.io/blob/main/6395aacd-913c-42f4-a2c0-d83a92d2007b.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" alt="WallART" alt="WallART" width="500" height="350">
     <img alt="photo_2024-12-19_17-50-46.jpg" src="https://github.com/ArtemidaCG/ArtemidaWallART.github.io/blob/main/photo_2024-12-19_17-50-46.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" alt="WallART" width="288" height="550">
