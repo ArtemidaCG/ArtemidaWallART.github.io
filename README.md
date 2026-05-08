@@ -3,13 +3,13 @@
      <h3>Wall painting for various creative spaces</h3>
 </div>
 <div id="header" align="center">
-     <h4>Minimalism and Cartoon style</h4>
+     Minimalism and Cartoon style
 </div> 
 <div id="header" align="center">
-     <h4>Help with the sketch and selection of references.</h4>
+     Help with the sketch and selection of references.
 </div> 
 <div id="header" align="center">
-     <h4>Important criteria for evaluating the drawing -referens/style/level of detail</h4>h
+     Important criteria for evaluating the drawing -referens/style/level of detail
 </div> 
     <h3 align="center">PORTFOLIO</h3>
     <p float="left">
