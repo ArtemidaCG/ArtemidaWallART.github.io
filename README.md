@@ -3,7 +3,7 @@
      <h3>Wall painting for various creative spaces</h3>
 </div>
 <div id="header" align="center">
-     <h3>Minimalism and Cartoon style.</h3>
+     Minimalism and Cartoon style
 </div> 
 <div id="header" align="center">
      Help with the sketch and selection of references.
