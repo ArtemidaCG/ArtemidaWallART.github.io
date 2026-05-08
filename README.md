@@ -1,6 +1,6 @@
 <div id="header" align="center">
      <h1>ArtemidaWallART</h1>
-     <h3>Unique artistic painting of walls for various creative spaces</h3>
+     <h3>Wall painting for various creative spaces</h3>
 </div>
 <div id="header" align="center">
      <h3>Minimalism and Cartoon style.</h3>
